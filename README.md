@@ -1,4 +1,4 @@
-# kafka-tools
+# Kafka-Tools
 Collection of producers, consumers, and basic tools for IHR kafka cluster
 
 ### The following tools are implemented inside the Kafka-Toolbox
