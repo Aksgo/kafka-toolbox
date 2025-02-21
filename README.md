@@ -6,9 +6,20 @@ Collection of producers, consumers, and basic tools for IHR kafka cluster
 2. [Historic BGP Data Producer](#bgp-data-producer)
 3. [Anomaly Detector](#anomaly-detector)
 4. [PeeringDB](#peeringdb)
-# Setting up Kafka
+
+# About Kafka and its Setup
+<p>An open source platform to stream live data (fetch or push)</p>
+
+## Terminology and Architecture
+<ol>
+  <li><b>Producer :</b> push to queue</li>
+</ol>
 
 # Traceroute Producer
+<ol>
+  <li>Fetch Traceroute data</li>
+  <li></li>
+</ol>
 
 # BGP Data Producer
 
