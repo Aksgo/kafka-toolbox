@@ -38,7 +38,7 @@ Collection of producers, consumers, and basic tools for IHR kafka cluster
   </li>
 </ol>
 
-<p>Text below is being added</p>
+# Text below is being added
 ## Traceroute Producer
 <ol>
   <li>Fetch Traceroute data</li>
