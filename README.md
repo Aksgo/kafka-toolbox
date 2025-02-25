@@ -13,7 +13,7 @@ Collection of producers, consumers, and basic tools for IHR kafka cluster
 <img src="https://github.com/user-attachments/assets/5da408e2-757b-457d-9158-2760dd4b8c0a" height="370px">
 </div>
 <br>
-<p>Kafka receive different types of live data and then that is actually distributed into different servers (called brokers). This part where data is stored in different servers is what kafka does. This data can then be forwarded by different to different users from those distributed servers.</p>
+<p>Kafka receive different types of live data which is then segregated and distributed into different servers (called brokers). This part where data is stored in different servers is what kafka does. This data can then be forwarded to different users based on their requirments from those distributed servers.</p>
 
 ### Architecture
 <b>Kafka's architecture is designed for high-throughput, fault-tolerant, real-time data streaming. Below are some basic terminologies of Kafka which you will find in our source codes :</b>
@@ -27,7 +27,7 @@ Collection of producers, consumers, and basic tools for IHR kafka cluster
   <li>Partitions :
     <ul>
       <li>Topics are divided into partitions.</li>
-      <li>Partitions are ordered, immutable sequences of records. They act as queue on works on priviple of FIFO.</li>
+      <li>Partitions are ordered, immutable sequences of records. They act as queue which works on principle of FIFO.</li>
     </ul>
   </li>
   <li>
@@ -43,7 +43,6 @@ Collection of producers, consumers, and basic tools for IHR kafka cluster
 ## Traceroute Producer
 <ol>
   <li>Fetch Traceroute data</li>
-  <li></li>
 </ol>
 
 ## BGP Data Producer
