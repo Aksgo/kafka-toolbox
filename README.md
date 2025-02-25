@@ -7,7 +7,7 @@ Collection of producers, consumers, and basic tools for IHR kafka cluster
 3. [Anomaly Detector](#anomaly-detector)
 4. [PeeringDB](#peeringdb)
 
-## About Kafka and its Setup
+## About Kafka
 <p><i>Kafka is a distributed streaming platform.</i> It's kind of a device or machine which make it easier to input continuous data and feed to the users.</p>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/5da408e2-757b-457d-9158-2760dd4b8c0a" height="370px">
@@ -39,6 +39,7 @@ Collection of producers, consumers, and basic tools for IHR kafka cluster
 </ol>
 
 # Text below is being added
+## Setting Up Kafka
 ## Traceroute Producer
 <ol>
   <li>Fetch Traceroute data</li>
